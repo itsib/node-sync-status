@@ -1,0 +1,16 @@
+{
+  "name": "sync-status",
+  "version": "1.0.0",
+  "description": "To display geth node sync status",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "itsib.su@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "web3": "^1.6.0"
+  }
+}
